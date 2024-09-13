@@ -5,8 +5,8 @@
 			<size>0.545 0.620</size>
 			<pos>0.390 0.185</pos>
 			<lineSpacing>0.9</lineSpacing>
-			<selectorHeight>0.04</selectorHeight>
-			<selectorOffsetY>0.001</selectorOffsetY>
+			<selectorHeight>0.045</selectorHeight>
+			<selectorOffsetY>0.015</selectorOffsetY>
 		</textlist>
 	</view>
 </theme>
