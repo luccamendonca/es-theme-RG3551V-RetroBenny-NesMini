@@ -4,9 +4,9 @@
 		<textlist name="gamelist">
 			<size>0.546 0.5481481481481481</size>
 			<pos>0.394 0.2185185185185185</pos>
-			<lineSpacing>1</lineSpacing>
-			<selectorHeight>0.03</selectorHeight>
-			<selectorOffsetY>0.005</selectorOffsetY>
+			<lineSpacing>0.9</lineSpacing>
+			<selectorHeight>0.04</selectorHeight>
+			<selectorOffsetY>0.001</selectorOffsetY>
 		</textlist>
 	</view>
 </theme>
