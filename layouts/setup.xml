@@ -38,7 +38,7 @@
 			<maxSize>0.29 0.4296296296296296</maxSize>
 		</image>
 
-		<text name="md_developer, md_publisher, md_genre">
+		<text name="md_developer, md_publisher">
 			<size>0.25 0.0333333333333333</size>
 		</text>
 		<text name="md_playcount">
@@ -61,26 +61,6 @@
 			<size>0 0.6518518518518519</size>
 			<pos>0.0041666666666667 0.5</pos>
 			<origin>0 0.5</origin>
-			<color>ffffff</color>
-		</image>
-		<image name="right_window_border" extra="true">
-			<path>./window_border.png</path>
-			<size>0 0.6666666666666667</size>
-			<pos>1 0.5</pos>
-			<origin>1 0.5</origin>
-			<color>c8c8c8</color>
-		</image>
-		<image name="right_window_body" extra="true">
-			<path>./window_body.png</path>
-			<size>0 0.1</size>
-			<pos>0.9958333333333333 0.5</pos>
-			<origin>1 0.5</origin>
-			<color>ffffff</color>
-		</image>
-
-		<image name="right_window_box" extra="true">
-			<path>./window_box.png</path>
-			<size>0 0.4888888888888889</size>
 			<color>ffffff</color>
 		</image>
 		<image name="left_window_box" extra="true">
@@ -124,7 +104,7 @@
 			<size>0 0.0666666666666667</size>
 			<color>ff0000</color>
 		</image>
-		<text name="publisher_label, developer_label, genre_label, rating_label, played_label"
+		<text name="publisher_label, developer_label, rating_label, played_label"
 			extra="true">
 			<fontPath>./../art/TinyUnicode.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
@@ -141,16 +121,13 @@
 			<text>P</text>
 		</text>
 		<text name="publisher_label" extra="true">
-			<alignment>left</alignment>
-			<text> Published</text>
+			<alignment>center</alignment>
+			<!-- Necessary left space padding here -->
+			<text>  Published</text>
 		</text>
 		<text name="developer_label" extra="true">
 			<alignment>center</alignment>
 			<text>Developed by</text>
-		</text>
-		<text name="genre_label" extra="true">
-			<alignment>center</alignment>
-			<text>Genre</text>
 		</text>
 		<text name="rating_label" extra="true">
 			<alignment>center</alignment>

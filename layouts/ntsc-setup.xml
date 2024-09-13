@@ -155,13 +155,13 @@ author:			ruckage
 		</rating>	
 
 		<text name="played_label" extra="true">
-			<pos>0.1583333333333333 0.72962962962963</pos>
+			<pos>0.151 0.72962962962963</pos>
 			<size>0.125 0.0333333333333333</size>
 		</text>		
 		
 		<text name="md_playcount">
 			<size>0.125 0.0333333333333333</size>
-			<pos>0.1583333333333333 0.751851851851852</pos>
+			<pos>0.151 0.751851851851852</pos>
 		</text>
 		
 		<text name="publisher_label" extra="true">
