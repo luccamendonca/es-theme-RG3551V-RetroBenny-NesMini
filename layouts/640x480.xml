@@ -2,8 +2,8 @@
 	<include>./4x3setup.xml</include>
 	<view name="basic, detailed,video">
 		<textlist name="gamelist">
-			<size>0.546 0.5481481481481481</size>
-			<pos>0.394 0.2185185185185185</pos>
+			<size>0.545 0.620</size>
+			<pos>0.390 0.185</pos>
 			<lineSpacing>0.9</lineSpacing>
 			<selectorHeight>0.04</selectorHeight>
 			<selectorOffsetY>0.001</selectorOffsetY>
