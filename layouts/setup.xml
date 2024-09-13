@@ -94,11 +94,6 @@
 			<size>0 0.1111111111111111</size>
 			<color>000000</color>
 		</image>
-		<image name="bar_5" extra="true">
-			<path>./info_bar.png</path>
-			<size>0 0.1111111111111111</size>
-			<color>000000</color>
-		</image>
 		<image name="player_box" extra="true">
 			<path>./player_box.png</path>
 			<size>0 0.0666666666666667</size>
