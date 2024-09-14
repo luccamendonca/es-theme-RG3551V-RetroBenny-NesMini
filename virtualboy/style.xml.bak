@@ -39,10 +39,7 @@
 			<origin>0 0.5</origin>
 		</image>
 	
-		<rating name="md_rating">
-			<filledPath>./../art/heart_filled.png</filledPath>
-			<unfilledPath>./../art/heart_empty.png</unfilledPath>
-		</rating>
+
 
 		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
 			<color>ff0000</color>
@@ -52,9 +49,7 @@
 			<color>ff0000</color>
 		</text>		
 		
-		<datetime name="md_releasedate">
-			<color>ff0000</color>
-		</datetime>	
+			
 
 		<text name="players_label" extra="true">
 			<color>ff0000</color>

@@ -37,24 +37,12 @@
 		<image name="md_image">
 			<maxSize>0.29 0.4296296296296296</maxSize>
 		</image>
-
-		<text name="md_developer, md_publisher">
-			<size>0.25 0.0333333333333333</size>
-		</text>
-		<text name="md_playcount">
-			<alignment>center</alignment>
-			<size>0.09375 0.0333333333333333</size>
-		</text>
-		<text name="md_players">
-			<alignment>left</alignment>
-			<size>0.01875 0.0407407407407407</size>
-		</text>
 		<image name="left_window_border" extra="true">
 			<path>./window_border.png</path>
 			<size>0 0.6666666666666667</size>
 			<pos>0 0.5</pos>
 			<origin>0 0.5</origin>
-			<color>c8c8c8</color>
+			<color>2b2b2b</color>
 		</image>
 		<image name="left_window_body" extra="true">
 			<path>./window_body.png</path>
@@ -73,67 +61,6 @@
 			<origin>0.5 0.5</origin>
 			<size>0 0.2518518518518519</size>
 		</image>
-
-		<image name="bar_1" extra="true">
-			<path>./info_bar.png</path>
-			<size>0 0.1111111111111111</size>
-			<color>000000</color>
-		</image>
-		<image name="bar_2" extra="true">
-			<path>./info_bar.png</path>
-			<size>0 0.1111111111111111</size>
-			<color>000000</color>
-		</image>
-		<image name="bar_3" extra="true">
-			<path>./info_bar.png</path>
-			<size>0 0.1111111111111111</size>
-			<color>000000</color>
-		</image>
-		<image name="bar_4" extra="true">
-			<path>./rating_bar.png</path>
-			<size>0 0.1111111111111111</size>
-			<color>000000</color>
-		</image>
-		<image name="player_box" extra="true">
-			<path>./player_box.png</path>
-			<size>0 0.0666666666666667</size>
-			<color>ff0000</color>
-		</image>
-		<text name="publisher_label, developer_label, rating_label, played_label"
-			extra="true">
-			<fontPath>./../art/TinyUnicode.ttf</fontPath>
-			<forceUppercase>1</forceUppercase>
-			<fontSize>0.0592592592592593</fontSize>
-			<color>ff0000</color>
-			<size>0.25 0.0333333333333333</size>
-		</text>
-		<text name="players_label" extra="true">
-			<fontPath>./../art/NESCyrillic_gamelist.ttf</fontPath>
-			<size>0.0416666666666667 0.0407407407407407</size>
-			<fontSize>0.0592592592592593</fontSize>
-			<alignment>right</alignment>
-			<color>ffffff</color>
-			<text>P</text>
-		</text>
-		<text name="publisher_label" extra="true">
-			<alignment>center</alignment>
-			<!-- Necessary left space padding here -->
-			<text>  Published</text>
-		</text>
-		<text name="developer_label" extra="true">
-			<alignment>center</alignment>
-			<text>Developed by</text>
-		</text>
-		<text name="rating_label" extra="true">
-			<alignment>center</alignment>
-			<size>0.09375 0.0333333333333333</size>
-			<text>Rating</text>
-		</text>
-		<text name="played_label" extra="true">
-			<alignment>center</alignment>
-			<size>0.02375 0.0333333333333333</size>
-			<text>Played</text>
-		</text>
 	</view>
 	<view name="video">
 		<video name="md_video">

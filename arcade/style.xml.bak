@@ -25,10 +25,7 @@
 	<view name="basic, detailed, video">
 	
 	
-		<rating name="md_rating">
-			<filledPath>./../art/heart_filled.png</filledPath>
-			<unfilledPath>./../art/heart_empty.png</unfilledPath>
-		</rating>
+
 		
 		<textlist name="gamelist">
 			<selectorColor>c47284</selectorColor>
@@ -49,9 +46,7 @@
 			<color>c47284</color>
 		</text>
 
-		<datetime name="md_releasedate">
-			<color>c47284</color>
-		</datetime>	
+			
 
 		
 		

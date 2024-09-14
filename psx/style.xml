@@ -10,10 +10,7 @@
 		</view>
 	</feature>
 	<view name="basic, detailed, video">
-		<rating name="md_rating">
-			<filledPath>./../art/heart_filled.png</filledPath>
-			<unfilledPath>./../art/heart_empty.png</unfilledPath>
-		</rating>
+
 		<textlist name="gamelist">
 			<selectorColor>ffc428</selectorColor>
 			<selectedColor>000000</selectedColor>
@@ -27,8 +24,5 @@
 			extra="true">
 			<color>ffc428</color>
 		</text>
-		<datetime name="md_releasedate">
-			<color>ffffff</color>
-		</datetime>
 	</view>
 </theme>

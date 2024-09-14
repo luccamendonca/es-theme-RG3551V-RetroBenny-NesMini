@@ -39,10 +39,7 @@
 			<origin>0 0.5</origin>
 		</image>
 	
-		<rating name="md_rating">
-			<filledPath>./../art/heart_filled.png</filledPath>
-			<unfilledPath>./../art/heart_empty.png</unfilledPath>
-		</rating>
+
 		
 		<textlist name="gamelist">
 			<selectorColor>069330</selectorColor>
@@ -68,9 +65,7 @@
 			<color>ffc800</color>
 		</text>
 
-		<datetime name="md_releasedate">
-			<color>ffc800</color>
-		</datetime>	
+			
 
 	
 		

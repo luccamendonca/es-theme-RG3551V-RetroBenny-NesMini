@@ -1,4 +1,5 @@
 <theme>
 	<formatVersion>3</formatVersion>
 	<include>./setup.xml</include>
+	<include>./boxart_pos_2.xml</include>
 </theme>

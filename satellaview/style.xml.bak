@@ -26,10 +26,7 @@
 	
 
 	
-		<rating name="md_rating">
-			<filledPath>./../art/heart_filled.png</filledPath>
-			<unfilledPath>./../art/heart_empty.png</unfilledPath>
-		</rating>
+
 		
 		<textlist name="gamelist">
 			<selectorColor>ee141f</selectorColor>
@@ -60,9 +57,7 @@
 			<color>fef100</color>
 		</text>
 
-		<datetime name="md_releasedate">
-			<color>c8c8c8</color>
-		</datetime>	
+			
 		
 		<text name="md_players">
 			<color>fef100</color>
